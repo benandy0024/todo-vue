@@ -16,15 +16,14 @@
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 .container {
-  border: 2px solid red;
   max-width: 500px;
   overflow: auto;
   min-height: 400px;
   margin: 30px auto;
   padding: 30px;
   border-radius: 5px;
+  background-color: #f8f9fa;
 }
 </style>
